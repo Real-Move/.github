@@ -1,1 +1,10 @@
-{"schemaVersion":1,"label":"CI","message":"all 2 repos passing","color":"brightgreen"}
+{
+"schemaVersion": 1,
+"label": "CI",
+"message": "all 2 repos passing",
+"color": "2ea44f",
+"labelColor": "555",
+"namedLogo": "github",
+"logoColor": "white",
+"style": "flat"
+}

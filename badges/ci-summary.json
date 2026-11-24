@@ -1,8 +1,8 @@
 {
 "schemaVersion": 1,
 "label": "Core Devel CI",
-"message": "failing",
-"color": "d73a49",
+"message": "passing",
+"color": "2ea44f",
 "labelColor": "555",
 "namedLogo": "github",
 "logoColor": "white",
